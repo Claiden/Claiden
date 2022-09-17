@@ -3,7 +3,7 @@
 ### 🌱 I’m currently learning JavaScript Frameworks
 ### 💬 Ask me about ... SQL
 ### 📫 How to reach me: claydlena@outlook.com
-**** ⚡ Fun fact: When I got my first smartphone, I searched for 'Java' on google play in hopes of finding games I liked when I was younger 😄.
+### ⚡ Fun fact: When I got my first smartphone, I searched for 'Java' on google play in hopes of finding games I liked when I was younger 😄.
 -->
 
 <!--
