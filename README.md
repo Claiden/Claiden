@@ -5,9 +5,8 @@
 ### 📫 How to reach me: claydlena@outlook.com
 
 
-## 📊 Github Stats 
-
-<div align="center">
+#### 📊 Github Stats 
+<div style="display:grid; grid-template-columns:"auto auto" ">
 
 ![Clayd Lena GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClaydLena&theme=dracula)
 
