@@ -1,5 +1,4 @@
-### Hi there 👋 I'm
-# Clayd Lena
+## Hi there 👋 I'm Clayd Lena
 ### 📚 I’m currently learning JavaScript Frameworks
 ### 📫 How to reach me: claydlena@outlook.com
 
