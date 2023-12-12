@@ -1,7 +1,4 @@
 ## Hi 👋, I'm Clayd Lena
-### 📚 I’m currently learning JavaScript Frameworks
-### 📫 How to reach me: claydlena@outlook.com
-
 ---
 <div align="center" dir="auto">
     <a href="https://github.com/ClaydLena">
